@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-
-
 I'm wasting my Time.
 
 * 🔭 I’m currently working with Java 8, Python, C and C++
@@ -22,10 +19,16 @@ I'm wasting my Time.
  
  
 ### Github Stats
+<a href="https://github.com/nsky80">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsky80&theme=dark&hide_langs_below=1" />
+</a>
 
-[![Satish's Github Stats](https://github-readme-stats.vercel.app/api?username=nsky80&count_private=true&theme=default&show_icons=true)](https://github.com/nsky80)
+<a href="https://github.com/nsky80">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nsky80&show_icons=true&theme=dark&line_height=27" alt="Satish's github stats"/>
+</a>
 
-<!-- Thanks to amartya-dev -->
+
+<!-- Thanks to TheDudeThatCode -->
 
 <!--
 **nsky80/nsky80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
