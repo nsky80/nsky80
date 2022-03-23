@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm wasting my Time in an enterprise.
+I'm working in an enterprise.
 
 * 🔭 I’m currently working with Java 8, Python, C and C++
 * 🌱 I’m currently learning React
 * 👯 I’m looking to collaborate on spring MVC, Django and some of Operating Systems projects
-* 🤔 I’m looking for help to leave an enterprise
 * 💬 Ask me about web development and Algorithms
 * 📫 How to reach me: PFB
 
