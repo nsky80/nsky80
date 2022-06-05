@@ -4,11 +4,11 @@ I'm working in an enterprise.
 
 * 🔭 I’m currently working with Java 8, Python, C and C++
 * 🌱 I’m currently learning React
-* 👯 I’m looking to collaborate on spring MVC, Django and some of Operating Systems projects
+* 👯 I’m looking to collaborate on Spring Boot, Django and some of Operating Systems projects
 * 💬 Ask me about web development and Algorithms
 * 📫 How to reach me: PFB
 
-# Let's Connect <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
+# Let's Connect 
 
 <a target="_blank" href="https://www.linkedin.com/in/nsky80/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
